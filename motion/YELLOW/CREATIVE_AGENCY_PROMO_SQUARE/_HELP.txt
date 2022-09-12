@@ -1,0 +1,49 @@
+CREATIVE AGENCY PROMO
+
+Before opening the After Effects Project file, I recommend you download and install the font that were used in the project. 
+
+Here is the link to where you can download it for free:
+
+FONT:
+https://www.fontsquirrel.com/fonts/barlow
+
+SOUNDTRACK:
+https://audiojungle.net/item/upbeat-percussion/28003637
+
+PREVIEW VIDEOS:
+pexels.com
+
+EDIT COMPS
+--------------------------------------------------------------------------
+_ Open "01_COMPS" Folder
+_ Open "SCENE_001" ... "SCENE_0XX" Folders
+_ Open "EDIT" Folders
+
+_ Double Click to "IMG_OR_VID_01".... "IMG_OR_VID_XX"... Comps
+	Place your img or video in this compositions.
+
+_ Double Click to "TEXT_01"... "TEXT_XX"... Comps
+	Edit text in this compositions.
+
+
+CONTROL
+--------------------------------------------------------------------------
+
+- Select "CONTROL" layer
+- Change All options from this layer. Frame Style, Text Color, Bg Color, vs...
+- Just one click than change all compositons. 
+
+Thats All.
+
+
+
+If you have any questions please email me:
+mail.afterdarkness75@gmail.com 
+
+
+
+Thank you for purchasing my project! I hope you like it. 
+Please, Don't forget to rate it in your "DOWNLOADS" tab
+http://videohive.net/downloads
+
+
